@@ -18,7 +18,7 @@
    npm run dev
 ``` 
 
-If, by any reason, your back-end is running in a port that **is not** *5219*, than you will need to edit the baseURL of the application, by accessing the file located at:
+If, by any reason, your back-end is running in a port that **is not** *5219*, then you will need to edit the baseURL of the application, by accessing the file located at:
 ```
 employee-maintenance\src\http\index.ts
 ```
